@@ -1,0 +1,7 @@
+*.db
+*.suo
+CmmLib/Debug/
+CmmLib/Release/
+dllTest/Release/
+ipch/
+Release/
